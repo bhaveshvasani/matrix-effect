@@ -1,2 +1,2 @@
-# matrix-effect
-HTML5 Canvas Matrix Effect
+# Fun With HTML Canvas - Build the Matrix
+HTML Canvas Matrix Effect
